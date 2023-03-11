@@ -1,39 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@mssnzz 
-chatwoot
-/
-chatwoot
-Public
-Fork your own copy of chatwoot/chatwoot
-Code
-Issues
-717
-Pull requests
-18
-Discussions
-Actions
-Projects
-2
-Wiki
-Security
-Insights
-chatwoot/Gemfile /
-@vishnu-narayanan
-vishnu-narayanan feat: Audit log APIs (#6434)
-…
-Latest commit d870b08 last week
- History
- 34 contributors
-@sojan-official@pranavrajs@subintp@tejaswinichile@sony-mathew@nithindavid@vishnu-narayanan@muhsin-k@sorumehta@snyk-bot@scmmishra@nursoltan-s
-213 lines (183 sloc)  4.98 KB
-
 source 'https://rubygems.org'
 
 ruby '3.1.3'
@@ -247,18 +211,3 @@ gem 'audited', '~> 5.2'
 gem 'omniauth'
 gem 'omniauth-google-oauth2'
 gem 'omniauth-rails_csrf_protection', '~> 1.0'
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-chatwoot/Gemfile at develop · chatwoot/chatwoot
