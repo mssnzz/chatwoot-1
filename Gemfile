@@ -182,7 +182,7 @@ gem 'faker'
 # Can remove this in rails 7
 gem 'net-imap', require: false
 gem 'net-pop', require: false
-gem 'net-smtp'
+gem 'net-smtp', require: false
 
 group :production, :staging do
   # we dont want request timing out in development while using byebug
